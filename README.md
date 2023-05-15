@@ -1,2 +1,3 @@
 # Automotive complain texts
 The NHTSA (National Highway Traffic Safety Administration) provides several datasets in the automotive domain that can also be utilized for NLP purposes (https://www.nhtsa.gov/nhtsa-datasets-and-apis). The NHTSA is a federal agency dedicated to transportation safety in the United States Department of Transportation. We extracted customer complaint texts from 2020 to 2023. Each complaint text comprises multiple sentences. During this period, 174,523 customer complaint texts were recorded, comprising 1,149,639 sentences. A random sample of 5,439 feedback texts was selected for annotation.
+Annotation in the IOB2-format for entity recognition task.
